@@ -7,7 +7,7 @@ The primary focus of the organization is the publication of the diamond open acc
 * [Solar System forum](https://solarsystem.forum): A Mattermost server for collaboration
 * [Solar System social](https://solarsystem.social): A Mastodon instance for social media
 * [Solar System video](https://solarsystem.video): A Peertube server for video content
-* [Solar System events](https://solarsystem.events): An Indico server for meetings
+* [Solar System events](https://solarsystem.events): An Indico server for meetings, workshops and conferences
 * [Solar System forms](https://forms.solarsystem.tools): A Liberaforms instance for creating forms
 * [Signatories](https://signatories.solarsystem.toos): A platform for collecting signatures for oopen letters and petitions
 
