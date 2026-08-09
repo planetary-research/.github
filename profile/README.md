@@ -2,7 +2,7 @@ The *Planetary Research Cooperative* is non-profit organization whose mission is
 
 The primary focus of the organization is the publication of the diamond open access journal [Planetary Research](https://planetary-research.org). Other websites and activities include:
 
-* [Planetary Research Blog](https://blog.planetary-research.org): A blogging platform that open to all planetary scientists
+* [Planetary Research Blog](https://blog.planetary-research.org): A blogging platform that is open to all planetary scientists
 * [Planetary Research Jobs](https://jobs.planetary-research.org): A jobs platform that is free to use and consult
 * [Solar System forum](https://solarsystem.forum): A Mattermost server for collaboration
 * [Solar System social](https://solarsystem.social): A Mastodon instance for social media
