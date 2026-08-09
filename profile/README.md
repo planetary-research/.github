@@ -9,6 +9,6 @@ The primary focus of the organization is the publication of the diamond open acc
 * [Solar System video](https://solarsystem.video): A Peertube server for video content
 * [Solar System events](https://solarsystem.events): An Indico server for meetings, workshops and conferences
 * [Solar System forms](https://forms.solarsystem.tools): A Liberaforms instance for creating forms
-* [Signatories](https://signatories.solarsystem.toos): A platform for collecting signatures for oopen letters and petitions
+* [Signatories](https://signatories.solarsystem.toos): A platform for collecting signatures for open letters and petitions
 
 This github repo is mirrored on codeberg: [https://codeberg.org/planetary-research](https://codeberg.org/planetary-research)
