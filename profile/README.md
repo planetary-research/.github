@@ -11,4 +11,4 @@ The primary focus of the organization is the publication of the diamond open acc
 * [Solar System forms](https://forms.solarsystem.tools): A Liberaforms instance for creating forms
 * [Signatories](https://signatories.solarsystem.toos): A platform for collecting signatures for open letters and petitions
 
-This github repo is mirrored on codeberg: [https://codeberg.org/planetary-research](https://codeberg.org/planetary-research)
+This Github organization is a mirror of our Codeberg organization: [https://codeberg.org/planetary-research](https://codeberg.org/planetary-research)
